@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "i am learning how to use node js and how to initlize the same ",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
